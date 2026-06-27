@@ -42,7 +42,7 @@ Evalúa:
 `;
 
   const response = await ai.models.generateContent({
-  model: "gemini-2.0-flash",
+  model: "Gemini-2.5-Flash-Lite",
   contents: prompt,
 });
 
