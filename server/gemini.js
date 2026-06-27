@@ -42,7 +42,7 @@ Evalúa:
 `;
 
   const response = await ai.models.generateContent({
-  model: "Gemini-3.1-Flash-Lite",
+  model: "Incrustación-Géminis-2",
   contents: prompt,
 });
 
