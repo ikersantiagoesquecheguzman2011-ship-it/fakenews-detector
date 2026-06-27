@@ -42,7 +42,7 @@ Evalúa:
 `;
 
   const response = await ai.models.generateContent({
-  model: "Antigravedad",
+  model: "Gemini-2.5-Flash-Lite",
   contents: prompt,
 });
 
