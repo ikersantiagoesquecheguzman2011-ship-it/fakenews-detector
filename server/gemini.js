@@ -42,7 +42,7 @@ Evalúa:
 `;
 
   const response = await ai.models.generateContent({
-  model: "Incrustación-Géminis-2",
+  model: "Antigravedad",
   contents: prompt,
 });
 
